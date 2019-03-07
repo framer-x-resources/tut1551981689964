@@ -1,0 +1,73 @@
+{
+  "files" : {
+    ".backups/2019-03-07 23.59.06.zip" : {
+      "sha1" : "LMRLS6tCkykjtup0PKztJVFLRoc=",
+      "size" : 2206
+    },
+    ".backups/2019-03-08 00.00.06.zip" : {
+      "sha1" : "DW5RBiQU9pHaC0djjjjBALDl6ZY=",
+      "size" : 2200
+    },
+    ".backups/2019-03-08 01.04.17.zip" : {
+      "sha1" : "r2+wZlwIqnUCePI0X8Y+DpVpwZw=",
+      "size" : 2202
+    },
+    ".backups/2019-03-08 01.05.17.zip" : {
+      "sha1" : "0eOJBZMc4XvGYE/bb308kJq33ho=",
+      "size" : 2270
+    },
+    ".backups/2019-03-08 01.06.17.zip" : {
+      "sha1" : "lxTQKuO2R+dgYTkqqsaSXM99Id4=",
+      "size" : 2226
+    },
+    ".backups/2019-03-08 01.07.17.zip" : {
+      "sha1" : "RQeTmsQZy1jODhLx541YWFyAwXc=",
+      "size" : 2207
+    },
+    ".gitignore" : {
+      "sha1" : "MmXoWzc8CV/JCl41uc0Ak4ivseM=",
+      "size" : 139
+    },
+    ".yarnignore" : {
+      "sha1" : "4SLhRnyg+tD/+ndNXdsmdpsl0qY=",
+      "size" : 66
+    },
+    "build/index.js" : {
+      "sha1" : "woma8H6ocoOLz8Ufx+UfuxydULY=",
+      "size" : 18509
+    },
+    "code/App.tsx" : {
+      "sha1" : "PPBg/Ls5/9u+1MzNz9PiNL0Yqa0=",
+      "size" : 291
+    },
+    "code/canvas.tsx" : {
+      "sha1" : "XAWJ2Vc6zFl/c1ILjaRwb7ijf8Q=",
+      "size" : 179
+    },
+    "code/Examples.tsx" : {
+      "sha1" : "lUV35hS3rcE/Vwe/FKuuRgzCdDc=",
+      "size" : 1396
+    },
+    "design/document.json" : {
+      "sha1" : "suNiyLG79KyCCRGy1/DCXRYZRj8=",
+      "size" : 4406
+    },
+    "package.json" : {
+      "sha1" : "XnB9aLCQOoCBYQ/tCp+EU2ODlz8=",
+      "size" : 284
+    },
+    "README.md" : {
+      "sha1" : "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
+      "size" : 0
+    },
+    "tsconfig.json" : {
+      "sha1" : "SdmzWRfeZvULVchW1E8DFxKSyZ8=",
+      "size" : 344
+    },
+    "yarn.lock" : {
+      "sha1" : "Zf+64UieDVQGJar+BRskaUmuw3I=",
+      "size" : 950
+    }
+  },
+  "uuid" : "D3190E44-9058-4642-8F6F-31453EB2BE9D"
+}

@@ -1,0 +1,16 @@
+[2019-03-08 01:09:20.6850] - INFO - Reading from /Users/mac/Documents/Framer X/Hello, Framer X/03-3-tutorial.framerfx (origin); preserving existing contents of project folder: true
+[2019-03-08 01:09:20.6900] - INFO - Done reading
+[2019-03-08 01:09:20.6910] - INFO - Marking changed: false
+[2019-03-08 01:09:23.0840] - ERROR - No installed Framer version
+[2019-03-08 01:09:23.0870] - ERROR - No installed Framer version
+[2019-03-08 01:09:24.2370] - INFO - GET 200 /design/document.json 0 B (64ms)
+[2019-03-08 01:09:26.4660] - ERROR - No installed Framer version
+[2019-03-08 01:09:30.9700] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (5ms)
+[2019-03-08 01:09:35.0760] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (24ms)
+[2019-03-08 03:00:31.0940] - INFO - Reading from /Users/mac/Documents/Framer X/Hello, Framer X/03-3-tutorial.framerfx (origin); preserving existing contents of project folder: true
+[2019-03-08 03:00:31.1250] - INFO - Done reading
+[2019-03-08 03:00:31.1250] - INFO - Marking changed: false
+[2019-03-08 03:00:33.2450] - INFO - GET 200 /design/document.json 0 B (7ms)
+[2019-03-08 03:00:38.0270] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (183ms)
+[2019-03-08 03:00:38.0330] - INFO - writing standalone output /Users/mac/Documents/Framer X/Hello, Framer X/03-3-tutorial.framerfx/index.html
+[2019-03-08 03:00:38.3440] - INFO - standalone export done: /Users/mac/Desktop/Apple iPhone 8 23
